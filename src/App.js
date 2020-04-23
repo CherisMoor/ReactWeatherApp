@@ -69,6 +69,7 @@ function App() {
           />
           <button className="button">Submit</button>
         </div>
+        <h1>Cherish's Weather App</h1>
         <div className="weather-box">
           <div className="name" id="cityName">
             Gastonia, US
